@@ -2,8 +2,8 @@
 SPAM SMS, CALL, WA
 Tutorial:
 <pre><code>
-pkg update && pkg -y upgrade
-pkg install python
+apt update && apt -y upgrade
+apt -y install python
 pip2 install requests
 git clone https://github.com/H0N3S/SPAM
 cd SPAM
