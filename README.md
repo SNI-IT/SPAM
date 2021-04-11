@@ -1,8 +1,8 @@
 # SPAM
-SPAM BRUTAL SMS, CALL, WA
+SPAM SMS, CALL, WA
 Tutorial:
 <pre><code>
-pkg update && pkg upgrade -y
+pkg update && pkg -y upgrade
 pkg install python
 pip2 install requests
 git clone https://github.com/H0N3S/SPAM
